@@ -4,6 +4,8 @@ import com.web.chen.entities.ExcelContent;
 
 /**
  * Created by CHEN on 2017/1/11.
+ *
+ * excel表格的异常情况
  */
 public class ExcelException extends RuntimeException{
 

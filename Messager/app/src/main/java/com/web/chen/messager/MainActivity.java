@@ -22,6 +22,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+/**
+ * Created by CHEN on 2017/1/11.
+ *
+ * 主界面监听器
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     private Button btSend;
